@@ -22,3 +22,5 @@ Pie Chart/Bar Chart: Shows the breakdown of sales by fuel type (e.g., Petrol, LP
 
 # Purpose
 This visualization tool is intended for car sales analysts, marketing teams, and business managers who need to derive actionable insights from car sales data. The visualizations are designed to simplify complex data, making it easier to communicate findings and support data-driven decision-making.
+
+SNAPSHOT LINK: https://github.com/KarthikeyaBedampudi/Car-sales-dashboard/blob/cdb64b035a90b022e26aaa428af1ec6cd646ed3b/Dashboard.png
